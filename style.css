@@ -1,0 +1,35 @@
+
+.heading
+{
+font-size: 28px;
+width: 100%;
+margin: 0px;
+color: black;
+background:seagreen;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(to right top, #e7c60aa8, #000a0f, #e61426, #2faa0a, #08dde4);
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+.button
+{
+    width: 500px;
+    border-radius: 20px;
+    color: black;
+    background: white;
+    height: 30px;
+}
